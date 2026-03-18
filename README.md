@@ -7,4 +7,4 @@ This project builds a complete BI pipeline for Guac Gear and Beyond, covering da
 Tech Stack
 📂 Oracle Cloud – Data warehouse hosting and management
 🔄 Apache Hop – ETL pipeline design and orchestration
-📈 Tableau – Data visualization and dashboard development
+📈 Power BI – Data visualization and dashboard development
