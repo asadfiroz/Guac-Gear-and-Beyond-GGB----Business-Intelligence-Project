@@ -18,5 +18,7 @@ Tech Stack
   - ✅ **Fact Table Relationships** – Ensured a **star schema** design by linking fact tables only through shared dimensions.
 
  📌 **Dimensional Model**
+![Dashboard](sales-fact.png)
+ 
 
  
