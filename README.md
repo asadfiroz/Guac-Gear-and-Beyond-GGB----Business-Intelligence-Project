@@ -40,3 +40,14 @@ Tech Stack
 
 ![Dashboard](etl-pipeline.png)
  
+
+3️⃣ Building the Business Intelligence Dashboard
+- Developed an interactive dashboard in Power BI to visualize sales performance.
+- Dashboard Features:
+  - 📉 **Total Sales Trend (2018–2024)** – Line chart tracking yearly sales performance with a forecast band showing projected sales through 2024.
+  - 📊 **Top 5 Products by Total Sales** – Horizontal bar chart ranking best-selling products, led by Chocolate Chip Cookies at 8.8K units.
+  - 📉 **Employee Trend by Date (2019–2026)** – Line chart showing workforce levels with a sharp dip in 2020 (COVID impact) and a steady recovery to ~9.5M.
+  - 📉 **Insured Unemployment Rate Over Time** – Weekly trend line highlighting seasonal fluctuations in unemployment rate from 2023 to 2026.
+
+![Dashboard](sales-dashboard.png)
+![Dashboard](Employee-dashboard.png)    
