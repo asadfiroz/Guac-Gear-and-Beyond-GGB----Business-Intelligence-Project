@@ -24,6 +24,9 @@ Tech Stack
 
  
 ![Dashboard](sales-fact.png)
+
+![Dashboard](employee-fact.png)
+
  
 
  
